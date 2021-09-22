@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mDevinn!
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning Computer Science at GVSU!
+- 💞️ I’m looking to continue buidling Websites and deepening my understanding of the Web!

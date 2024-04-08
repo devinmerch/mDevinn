@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devinmerch!
-- Portfolio Website: https://devinmerch.github.io/
+- Checkout My 💼 [Portfolio Website](https://devinmerch.github.io/)
 - 👀 I’m interested in Web Development.
 - 🌱 Currently expanding my knowledge at work, I'm on a journey to deepen my understanding of the web and engage in exciting web development projects!
 - 💬 Let's Connect
-  - LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/devinmerchant/)
-  - Email: devinmerch@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/devinmerchant/)
+  - [Email](devinmerch@gmail.com)
